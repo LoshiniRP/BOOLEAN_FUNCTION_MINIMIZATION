@@ -45,13 +45,15 @@ endmodule
 
 Developed by: RegisterNumber: 25002119
 
-**RTL REALISATION OUTPUT:**
-<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/19185584-aa00-499c-a824-540972634bed" />
 
 **RTL:**
-<img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/0cd9afde-cf69-4268-8425-516d32491b55" />
+<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/19185584-aa00-499c-a824-540972634bed" />
+
+
 
 **TIMING DIAGRAM:**
+<img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/0cd9afde-cf69-4268-8425-516d32491b55" />
+
 
 **RESULT:**
 Thus, the given logic functions are implemented using and their operations are verified using Verilog programming.
