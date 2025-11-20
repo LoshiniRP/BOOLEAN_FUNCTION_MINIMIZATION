@@ -8,17 +8,17 @@ F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
 
 F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
-**Equipment Required:**
+**EQUIPMENT REQUIRED:**
 
 Hardware – PCs, Cyclone II , USB flasher
 
-**Software – Quartus prime**
+**SOFTWARE – Quartus prime**
 
-**Theory**
+**THEORY**
 
-**Logic Diagram**
+**LOGIC DIAGRAM**
 
-**Procedure**
+**PROCEDURE:**
 
 1.	Type the program in Quartus software.
 
@@ -31,22 +31,20 @@ Hardware – PCs, Cyclone II , USB flasher
 5.	For different input combinations generate the timing diagram.
 
 
-**Program:**
+**PROGRAM:**
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
 Developed by: RegisterNumber:*/
 
 
-**RTL realization**
+**RTL REALISATION**
 
-**Output:**
+**OUTPUT:**
 
-**RTL**
+**RTL:**
 
-**Timing Diagram**
+**TIMING DIAGRAM:**
 
-**Result:**
-
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
-
+**RESULT:**
+Thus, the given logic functions are implemented using and their operations are verified using Verilog programming.
